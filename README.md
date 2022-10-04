@@ -3,7 +3,7 @@
 
 ## [iBOM](https://htmlpreview.github.io/?https://github.com/Fisheiyy/Better-Klipper-Expander/blob/main/ibom.html), [BOM](https://docs.google.com/spreadsheets/d/1mPUtkNYWScB2l85k0YQtJtEaqjWuknqn7hNMz57VFFw), [Schematic](https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/better-klipper-expander.pdf)
 
-## Inspired by [Klipper Expander](https://github.com/timmit99/Klipper-Expander) by [timmit99](https://github.com/timmit99) aka Mr Doctor Professor Patrick
+## Inspired by [Klipper Expander](https://github.com/timmit99/Klipper-Expander) by [timmit99](https://github.com/timmit99)
 ## Made for the Voron and Klipper Communities
 
 # LICENSE
