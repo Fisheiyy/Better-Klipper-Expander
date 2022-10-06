@@ -1,5 +1,5 @@
 # Better Klipper Expander
- A RP2040 based Better Klipper Expander with 6 Fan ports, Selectable Fan Voltage, 2 Thermistor ports (1 with PT1000 Support), and many extra GPIO pins available via header pins.
+ A RP2040 based Klipper Expander but Better.. with 6 Fan ports, Selectable Fan Voltage (24V/5V), 2 Thermistor ports (1 with PT1000 Support).
 
 ## [iBOM](https://htmlpreview.github.io/?https://github.com/Fisheiyy/Better-Klipper-Expander/blob/main/ibom.html), [BOM](https://docs.google.com/spreadsheets/d/1mPUtkNYWScB2l85k0YQtJtEaqjWuknqn7hNMz57VFFw), [Schematic](https://github.com/Fisheiyy/FriedSalmon-2040/blob/main/better-klipper-expander.pdf)
 
