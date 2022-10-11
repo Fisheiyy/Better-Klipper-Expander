@@ -868,11 +868,11 @@
     (property "Sheetname" "")
     (path "/ea922d04-821a-4a9b-aeb5-befe2830735f")
     (attr through_hole)
-    (fp_text reference "U1" (at -0.745 -3.322 90) (layer "F.SilkS")
+    (fp_text reference "U1" (at -0.745 -3.322 90) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b1646d46-0921-4ce9-9a1f-dc7f1024014d)
     )
-    (fp_text value "W25Q80DVSNIG" (at 7.51 3.322 90) (layer "F.Fab")
+    (fp_text value "W25Q80DVSNIG" (at 7.51 3.322 90) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0270cea0-10ef-4c4e-8d84-4dc92f0aeed9)
     )
@@ -3289,11 +3289,11 @@
     (property "Sheetname" "")
     (path "/5c7608a8-9e3b-48f6-bb0e-df58b6ac4439")
     (attr through_hole)
-    (fp_text reference "U3" (at -0.075 -3.635 180) (layer "F.SilkS")
+    (fp_text reference "U3" (at -0.075 -3.635 180) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1353845d-0ce3-4fca-aac9-0f1052f9ae91)
     )
-    (fp_text value "TPS5450DDAR" (at 8.18 3.635 180) (layer "F.Fab")
+    (fp_text value "TPS5450DDAR" (at 8.18 3.635 180) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 51760fba-d4be-453b-9423-5a20646bf9c1)
     )
@@ -5019,11 +5019,11 @@
     (property "Sheetname" "")
     (path "/1c238f48-0637-4087-ac93-f25e52c5a7cc")
     (attr through_hole)
-    (fp_text reference "U5" (at 0.375 -2.635 180) (layer "F.SilkS")
+    (fp_text reference "U5" (at 0.375 -2.635 180) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 661561b3-83c9-43b6-953a-cbe52f96901f)
     )
-    (fp_text value "TXS0101DBVR" (at 7.26 2.365 180) (layer "F.Fab")
+    (fp_text value "TXS0101DBVR" (at 7.26 2.365 180) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a0c00994-e1e4-4ecb-927e-1a9dcad4084f)
     )
@@ -5822,7 +5822,7 @@
     (property "Sheetname" "")
     (path "/389cddd5-f365-43a7-8944-b5a88f0fc917")
     (attr through_hole)
-    (fp_text reference "F2" (at 5.85 0 -90) (layer "F.SilkS")
+    (fp_text reference "F2" (at 5.85 0 -90) (layer "F.SilkS") hide
       (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp a04d11ca-7a19-4096-90ab-13f036b0761f)
     )
@@ -5830,7 +5830,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 51f41a3d-8546-47da-a41d-85605dbee504)
     )
-    (fp_text user "${REFERENCE}" (at 5.85 0 -90) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 5.85 0 -90) (layer "F.Fab") hide
       (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 930d0431-497a-40a8-915a-aa0429083a4d)
     )
