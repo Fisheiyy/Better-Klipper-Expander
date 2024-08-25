@@ -1,3 +1,7 @@
+# THIS PROJECT HAS BEEN ABANDONED
+
+
+
 # Better Klipper Expander
  A RP2040 based 3D Printer Port Expander with 6 Fan Ports, Selectable Fan Voltage (24V/5V) (3 Fans per Voltage Selection Header), 2 Thermistor ports (1 with PT1000 Support), and a Positive Driven Fan Port (FAN5) for CPAP Fan Drivers.
 
